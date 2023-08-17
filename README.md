@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 <code><a href="https://react.dev/"><img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
 <code><a href="https://nodejs.org"><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 
+<!--
+[![@codersjj Astro contributions](https://astro.badg.es/v1/contributor/codersjj.svg)](https://astro.badg.es/v1/contributor/codersjj/)
+-->
+
 | GitHub Stats | Top Languages |
 |:---:|:---:|
 | [![codersjj's github stats](https://github-readme-stats.vercel.app/api?username=codersjj\&hide=stars\&show=discussions_started\&show_icons=false)](https://github.com/anuraghazra/github-readme-stats) | [![codersjj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shane\&layout=default&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) |
