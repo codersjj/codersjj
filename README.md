@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages:**
+**Tech Stack:**
 
-<code><a href="https://tc39.es/"><img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a></code>
-<code><a href="https://www.typescriptlang.org/"><img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a></code>
-<code><a href="https://vuejs.org/"><img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a></code>
-<code><a href="https://react.dev/"><img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
-<code><a href="https://nodejs.org"><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+<code><a href="https://tc39.es/"><img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/"><img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a></code>
+<code><a href="https://vuejs.org/"><img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a></code>
+<code><a href="https://react.dev/"><img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
+<code><a href="https://nodejs.org"><img width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 
 <!--
 [![@codersjj Astro contributions](https://astro.badg.es/v1/contributor/codersjj.svg)](https://astro.badg.es/v1/contributor/codersjj/)
